@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Bacharelando em **Engenharia de Software** na UniSenai (8º período)
+- 🎓 Bacharel em **Engenharia de Software** na UniSenai
 - 💼 Assistente Administrativo na **True Source** — onde desenvolvi automações e análises com Python e Excel
 - 🌱 Atualmente aprofundando conhecimentos em **Node.js**, **APIs REST** e **banco de dados**
 - 🚀 Buscando minha primeira oportunidade como **Desenvolvedor Backend Junior**
@@ -40,7 +40,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=Insomnia&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 </div>
@@ -74,7 +73,7 @@
 
 ## 🏫 Formação & Cursos
 
-- 🎓 **Bacharelado em Engenharia de Software** — UniSenai *(em andamento, conclusão 2025)*
+- 🎓 **Bacharel em Engenharia de Software** — UniSenai
 - 📘 **Node.js do Zero ao Avançado** — Udemy *(em andamento)*
 - 📘 **JavaScript Completo ES6+** — Origamid
 - 📘 **Python para Automação** — Autodidata + projetos práticos
